@@ -32,7 +32,7 @@ The link brings me to a qr code that i'll screenshot and check online.
 So it appears it contains the username and password for an FTP account,
 ![1](https://github.com/SP0x0K/SP0x0K.github.io/blob/main/Vulnhub/Bluemoon/Images/9.png)
 Sure enough that works to login so it's time to poke about.
-![1](https://github.com/SP0x0K/SP0x0K.github.io/blob/main/Vulnhub/Bluemoon/Images/10.png)
+![1](https://github.com/SP0x0K/SP0x0K.github.io/blob/main/Vulnhub/Bluemoon/Images/20.png)
 I get the two files in the userftp directory that appear to be a note from the sysadmin to someone called
 robin asking them to choose a password from the provided password list p_lists.txt 
 ![1](https://github.com/SP0x0K/SP0x0K.github.io/blob/main/Vulnhub/Bluemoon/Images/11.png)
