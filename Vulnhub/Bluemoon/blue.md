@@ -36,7 +36,9 @@ I launch metasploit and search for a vulnerability with FTP, no luck there and I
 already finished.
 
 ```msfconsole```
+
 ```search vsftpd```
+
 ```searchsploit vsftpd```
 
 ![1](Images/5.png)
@@ -73,7 +75,9 @@ robin asking them to choose a password from the provided password list p_lists.t
 I go back a directory and see two home folders 'Robin' and 'Jerry'. Since the password list isn't very
 long at all, I'll start a brute force SSH login on the Robin account.
 I start a scan with scanner/ssh/ssh_login on metasploit and pass the name and password list to it.
+
 ```msfconsole```
+
 ``` use auxilary/scanner/ssh/ssh_login```
 
 ![1](Images/12.png)
@@ -110,7 +114,7 @@ Now time to get that root flag and call it a day :)
 ![1](Images/17.png)
 
 
-We've got the flag! I really enjoyed this box and I'll be posting more write-ups soon. Bye for now!
+We've got the root flag! I really enjoyed this box and I'll be posting more write-ups soon. Bye for now!
 
 
 
