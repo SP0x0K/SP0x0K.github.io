@@ -11,6 +11,7 @@ After I find the IP of my victim, my next step is reconnaissance, I'll start an 
 switches and see what I get.
 
 ```nmap -sV -sT -sC -A --top-ports 100 192.168.1.240 >> Scan.txt```
+
 ```cat Scan.txt```
 
 ![1](Images/2.png)
