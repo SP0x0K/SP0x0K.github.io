@@ -2,7 +2,7 @@
 
 First things first I'll do a scan of my home network to identify the Bluemoon server with Nmap.
 nmap -sP 192.168.1.254/24 
-![1](https://github.com/SP0x0K/SP0x0K.github.io/blob/main/Vulnhub/Bluemoon/Images/1.png)
+![1](Images/1.png)
 
 After I find the IP of my victim, my next step is reconnaissance, I'll start an Nmap scan with my current goto 
 switches and see what I get.
