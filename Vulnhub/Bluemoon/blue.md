@@ -35,13 +35,6 @@ I start the gobuster scan and leave it be.
 I launch metasploit and search for a vulnerability with FTP, no luck there and I notice my gobuster scan has 
 already finished.
 
-```msfconsole```
-
-```search vsftpd```
-
-```searchsploit vsftpd```
-
-![1](Images/5.png)
 
 
 Gobuster only returned two results, /server_status returned a 404 and /hidden_text brings me this.
