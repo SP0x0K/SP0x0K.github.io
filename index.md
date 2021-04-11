@@ -1,9 +1,9 @@
 ## HTB + Vulnhub write-ups!
 
 
-### Vulnhub
+# Vulnhub
 
-#### [Bluemoon](Vulnhub/Bluemoon/blue.md)
+## [Bluemoon](Vulnhub/Bluemoon/blue.md)
 
 
 
