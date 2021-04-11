@@ -87,7 +87,7 @@ After inspecting robins home directory I get the first Flag! I'll make a note of
 ![1](Images/14.png)
 
 
-I find a bash script feedback.sh, after running ```sudo``` -l I see I can run this as Jerry without a password. I 
+I find a bash script feedback.sh, after running ```sudo -l``` I see I can run this as Jerry without a password. I 
 delete the content from the script and replace it with ```/bin/bash -i``` to try and launch a session as Jerry.
 
 ![1](Images/15.png)
