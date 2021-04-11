@@ -81,14 +81,14 @@ I get the password for robin! I'll make a notes.txt and put this in there along 
 ![1](Images/13.png)
 
 
-After inspecting robins home directory I get the first Flag! I'll make a note of thise and inspect the
+After inspecting robins home directory I get the first Flag! I'll make a note of this and inspect the
 'project' directory.
 
 ![1](Images/14.png)
 
 
-I find a bash script feedback.sh, after running sudo -l I see I can run this as Jerry without a password. I 
-delete the content from the script and replace it with /bin/bash -i to try and launch a session as Jerry.
+I find a bash script feedback.sh, after running ```sudo``` -l I see I can run this as Jerry without a password. I 
+delete the content from the script and replace it with ```/bin/bash -i``` to try and launch a session as Jerry.
 
 ![1](Images/15.png)
 
