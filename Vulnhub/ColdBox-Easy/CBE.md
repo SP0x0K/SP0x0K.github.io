@@ -1,5 +1,8 @@
 ## Cold Box Easy
 ### Vulnhub
+Date: 13/04/2021
+
+
 As always I'll start off with a Nmap scan of the network to identify the IP of my target, then I hit the server with Nmap and the usual flags
 
 ```nmap -sV -sT -sC -A --top-ports 100 192.168.1.212 >> Scan.txt```
