@@ -1,5 +1,9 @@
 ## Bluemoon
 ### Vulnhub
+
+Date: 11/04/2021
+
+
 First things first I'll do a scan of my home network to identify the Bluemoon server with Nmap.
 
 ```nmap -sP 192.168.1.254/24 ```
