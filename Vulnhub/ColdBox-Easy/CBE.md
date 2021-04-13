@@ -24,13 +24,13 @@ We've found the password and it's an admin account. From here there are multiple
 ![8](Images/8.png)
 
 Let's try and SSH into the server with those credentials... It worked! Now I'm going to get the user flag and copy it into my notes.
-[!9](Images/9.png)
+![9](Images/9.png)
 
 I run ```sudo -l``` to see if c0ldd can execute anything as root, they can! I'm going to to use ```vim``` to edit ```/etc/sudoers``` and add that c0ldd can use root with no password ```c0ldd	ALL=(root) NOPASSWD:ALL```.
-[!10](Images/10.png)
-[!11](Images/11.png)
+![10](Images/10.png)
+![11](Images/11.png)
 Now I use ```sudo -i``` to launch a root shell and get the root flag.
-[!12](Images/12.png)
+![12](Images/12.png)
 
 
 
