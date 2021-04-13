@@ -11,6 +11,13 @@ I like to keep my write-ups short and sweet, I encourage you to research the thi
 
 | Author: Kirthik-[H4ck3r]  |  Difficulty: Easy           |
 
+Date: 11/04/2021
+
+## [Cold Box Easy](Vulnhub/ColdBox-Easy/CBE.md)
+
+Welcome to ColddBox Easy, it is a Wordpress machine with an easy level of difficulty, highly recommended for beginners in the field, good luck! Please share your feedback: "https://twitter.com/C0ldd__”
+
+Date: 13/04/2021
 
 # HTB
 
