@@ -9,7 +9,7 @@ The initial Nmap scan shows me that SSH, FTP and HTTP are present on this machin
 
 ```cat Scan.txt```
 
-![1](Images/1.png)
+![1](Images/1.jpg)
 
 The results also inform me of the anonymous acount being available on FTP, I login to that and grab an image 'trytofind.jpg'
 
