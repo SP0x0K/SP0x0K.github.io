@@ -2,6 +2,17 @@
 I like to keep my write-ups short and sweet, I encourage you to research the things I demonstrate. ```man``` the commands you aren't familiar with, look deeper into the exploits and vulnerabilities but also learn how to defend against and mitigate them. I'm only a beginner at CTF challenges so my way of doing things is likely not going to be the best solution... But it's still a solution. If you're looking for the most efficient and elegant ways to do things I suggest you take a look at different write-ups by the true professionals. This is to be treated more as a blog of mine and less as a series of ultimate guides. 
 
 # Vulnhub
+## [Moneybox](Vulnhub/Moneybox/Moneybox.md)
+
+Difficulty : Easy
+
+Goal : 3 flags
+
+## [Cold Box Easy](Vulnhub/ColdBox-Easy/CBE.md)
+
+Welcome to ColddBox Easy, it is a Wordpress machine with an easy level of difficulty, highly recommended for beginners in the field, good luck! Please share your feedback: "https://twitter.com/C0ldd__”
+
+Date: 13/04/2021
 
 ## [Bluemoon](Vulnhub/Bluemoon/blue.md)
 
@@ -13,11 +24,6 @@ I like to keep my write-ups short and sweet, I encourage you to research the thi
 
 Date: 11/04/2021
 
-## [Cold Box Easy](Vulnhub/ColdBox-Easy/CBE.md)
-
-Welcome to ColddBox Easy, it is a Wordpress machine with an easy level of difficulty, highly recommended for beginners in the field, good luck! Please share your feedback: "https://twitter.com/C0ldd__”
-
-Date: 13/04/2021
 
 # HTB
 
