@@ -8,6 +8,7 @@ Difficulty : Easy
 
 Goal : 3 flags
 
+Date: 15/04/2021
 ## [Cold Box Easy](Vulnhub/ColdBox-Easy/CBE.md)
 
 Welcome to ColddBox Easy, it is a Wordpress machine with an easy level of difficulty, highly recommended for beginners in the field, good luck! Please share your feedback: "https://twitter.com/C0ldd__”
